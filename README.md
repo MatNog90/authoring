@@ -20,3 +20,4 @@ Get Help on [help.github](https://help.github.com/en)
 
 ## Link zum Bilderordner
 
+[Das ist ein Link zu Images](Images/)
