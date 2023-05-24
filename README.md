@@ -32,9 +32,10 @@ Get Help on [help.github](https://help.github.com/en)
 
 ## Tabelle mit zwei Überschriften
 
-Name | Klasse |
-Mateusz | WD23-D05 |
-Expo | WD23-D05 |
+|Name |Klasse |
+|-----|-------|
+|Mateusz | WD23-D05 |
+|Expo    | WD23-D05 |
 
 
 
