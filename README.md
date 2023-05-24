@@ -25,3 +25,12 @@ Get Help on [help.github](https://help.github.com/en)
 ## Bilder aus dem Ordner hinzufügen
 
 ![Bild](Images/logo.png)
+
+## Emojis
+
+💩 🤮
+
+
+
+
+
